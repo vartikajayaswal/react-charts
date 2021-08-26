@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.chart {
+  width: 720px;
+}
+
+.filter-area{
+  border: 1px solid;
+  width: 200px;
+}
+.filter-header{
+  background-color: brown;
+  color: white;
+  font-weight: bold;
+  font-size: 24px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.filter-box{
+  padding: 10px;
+  text-align: left;
+}
+.filter-sub{
+  background-color: #ddd;
+  border-bottom: 1px solid;
+  margin-top: 0;
+}
